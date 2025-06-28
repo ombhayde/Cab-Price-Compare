@@ -68,7 +68,7 @@ cd cab-price-compare
 
 ### 3. Install Dependencies
 ```bash
-npm install
+pnpm install
 ```
 
 ### 4. Set Up Environment Variables
@@ -84,6 +84,6 @@ This project uses the Google Maps API for location services.
 
 ### 5. Run the Development Server
 ```bash
-npm dev
+pnpm dev
 ```
 The application will be available at `http://localhost:3000`.
